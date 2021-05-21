@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MSampathVinayKumarReddy
+- 👀 I’m interested in Data Science, Statistics, AI
+- 🌱 I’m currently pursuing BSc in Statistics
+- 📫 How to reach me - sampath.vinay.reddy@gmail.com
