@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MSampathVinayKumarReddy
 - 👀 I’m interested in Data Science, Statistics, AI
-- 🌱 I’m currently a fresher looking for a job in data science field
 - 📫 How to reach me - sampath.vinay.reddy@gmail.com
