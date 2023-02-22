@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MSampathVinayKumarReddy
-- 👀 I’m interested in Data Science, Statistics, AI
+- 👀 Tech Stack - Python, SQL, PowerBi, BigData, AWS, Azure
 - 📫 How to reach me - sampath.vinay.reddy@gmail.com
