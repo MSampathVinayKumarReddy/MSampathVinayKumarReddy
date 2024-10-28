@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MSampathVinayKumarReddy
-- 👀 Tech Stack - Python, SQL, PowerBi, BigData, AWS, Azure
-- 📫 How to reach me - sampath.vinay.reddy@gmail.com
+- 👀 Tech Stack - Python, SQL, PowerBi, BigData, Azure, ADF, PySpark
+- 📫 How to reach me - sampath.vinay.reddy@gmail.com, 80746 97382
